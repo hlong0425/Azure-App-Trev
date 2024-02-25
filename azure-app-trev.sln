@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azure-app-trev", "azure-app-trev.csproj", "{55415A27-02CA-4A64-AE00-6D47B62E0BC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55415A27-02CA-4A64-AE00-6D47B62E0BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55415A27-02CA-4A64-AE00-6D47B62E0BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55415A27-02CA-4A64-AE00-6D47B62E0BC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55415A27-02CA-4A64-AE00-6D47B62E0BC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65DF82E0-57F7-4238-A6CC-344DA040BC14}
+	EndGlobalSection
+EndGlobal
